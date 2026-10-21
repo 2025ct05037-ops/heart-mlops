@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Malin/OneDrive/2025/S3/MLOps/Assignment/heart-mlops/mlruns/0/5c6a8f202f8a489498a29f7ad0c9ef60/artifacts
+end_time: 1792547021055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c6a8f202f8a489498a29f7ad0c9ef60
+run_name: log_reg
+run_uuid: 5c6a8f202f8a489498a29f7ad0c9ef60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792547016564
+status: 3
+tags: []
+user_id: Malini
